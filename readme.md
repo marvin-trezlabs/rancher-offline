@@ -1,7 +1,7 @@
 # Script for running rancher Offline
 Requirements:
 ___
-- rancher-latest.tar image local file
+- rancher-latest.tar image local file or run import Script
   
 Steps:
 ___
